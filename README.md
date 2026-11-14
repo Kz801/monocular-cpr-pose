@@ -209,15 +209,7 @@ To respect participant privacy in compliance with institutional review board (IR
 
 ## Citation
 
-If you find this work or codebase helpful in your research, please cite:
-
-```bibtex
-@article{zheng2026monocular,
-  title={Monocular Vision-Based Real-Time CPR Training System with Deep Learning Pose Assessment Frameworks},
-  author={Zheng, Wei and Zhang, Kai and Gan, Linling and Zhang, Xiaojuan and Zhou, Jing and Tang, Dandan and Qin, Qin and Tang, Hui and Hu, Ting and Xie, Can and Tan, Li and Li, Xinke},
-  journal={PLOS ONE / PLOS Digital Health},
-  year={2026}
-}
+If you find this work or codebase helpful in your research, please cite
 ```
 
 ---
