@@ -1,0 +1,5 @@
+rule,cycles_flagged,unique_additional_removed,cycles_remaining
+Raw cycle-level manikin data,0,0,2256
+Rule 1: vision depth > 10.0 cm,138,138,2118
+Rule 2: trial with < 10 cycles,3,0,2118
+Final quality-controlled dataset,138,138,2118
